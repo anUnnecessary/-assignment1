@@ -1,3 +1,7 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 /* header and nav styles */
 header {
     background-image: url('../images/banner/banner2.png');
@@ -137,4 +141,47 @@ main {
     left: 294px;
     top: 2393.3px;
     color: purple;
+}
+
+/* contect-section */
+.contact {
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2646.3px;
+    background: #151414;
+}
+
+.section-title {
+    width: 148px;
+    height: 53px;
+    left: 230px;
+    top: 2776.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: white;
+}
+
+.section-description {
+    width: 485px;
+    height: 78px;
+    left: 230px;
+    top: 2845.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.info {
+    width: 184px;
+    height: 26px;
+    left: 230px;
+    top: 2947.3px;
 }
